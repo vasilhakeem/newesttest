@@ -1,0 +1,9 @@
+# This is a comment line
+print("Hello world!")  # This is a Python comment
+var = 'example'  # This is an assignment with a comment
+// This is a C++ comment
+if (condition) {
+// This is another C++ comment
+    statement;
+'test
+}
